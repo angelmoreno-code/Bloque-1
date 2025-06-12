@@ -1,9 +1,39 @@
-🚀 Prácticas de Code Arts
+🧩 Bloque 1 - Prácticas CodeArts Solutions
 
-¡Bienvenido a mi repositorio! Aquí nace una idea convertida en código. Este proyecto es el resultado de muchas horas de café, curiosidad y ganas de construir algo útil (o intentarlo 😄).
+📅 
+**Inicio:** 1 de Junio de 2025 
+**Finalización:** 31 de Julio de 2025
 
-✨ ¿Qué es esto?
+🏢 CodeArts Solutions
+**Nombre:** Ángel Moreno García   
+**Sector:** Tecnologías de la Información  
+**Modalidad:** Remoto
 
-Este proyecto es una prueba con GitHub para las prácticas realizadas en CodeArts
+🎯 Objetivo del bloque
+Implementar y configurar un entorno de trabajo digital utilizando herramientas colaborativas para optimizar la comunicación, la organización documental y la gestión de tareas dentro de un equipo de trabajo.
 
-La utilizaremos para organizar tareas y gestionar las versiones intentando no complicarnos mucho la vida. 
+🛠️ Tareas realizadas
+
+- ✅ Organización de estructura de carpetas en **Google Drive** para almacenamiento compartido.
+- ✅ Configuración de canales y espacios de trabajo en **Slack** para la comunicación interna.
+- ✅ Creación y seguimiento de tableros en **Trello** para la gestión de proyectos y tareas.
+- ✅ Documentación de buenas prácticas para el trabajo remoto.
+- ✅ Sincronización entre herramientas para mantener el flujo de trabajo ordenado y accesible.
+
+🧰 Herramientas utilizadas
+
+ Herramienta      | Uso principal                          
+ Google Drive     | Gestión y compartición de archivos     
+ Slack            | Comunicación y coordinación de equipo  
+ Trello           | Planificación y seguimiento de tareas  
+ Google Docs/Sheets | Documentación colaborativa           
+
+📈 Resultados obtenidos
+
+- Mejora en la coordinación del equipo de trabajo.
+- Reducción del uso del correo electrónico interno.
+- Centralización de la documentación y tareas.
+- Facilita el onboarding de nuevos integrantes.
+
+
+

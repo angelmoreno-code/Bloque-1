@@ -5,6 +5,7 @@
 **Finalización:** 31 de Julio de 2025
 
 🏢 CodeArts Solutions
+
 **Nombre:** Ángel Moreno García   
 **Sector:** Tecnologías de la Información  
 **Modalidad:** Remoto

@@ -1,9 +1,5 @@
 🧩 Bloque 1 - Prácticas CodeArts Solutions
 
-📅 
-**Inicio:** 1 de Junio de 2025 
-**Finalización:** 31 de Julio de 2025
-
 🏢 CodeArts Solutions
 
 **Nombre:** Ángel Moreno García   
